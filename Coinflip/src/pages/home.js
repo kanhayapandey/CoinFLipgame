@@ -1,4 +1,4 @@
-// src/pages/HomePage.js
+
 import React, { useState, useEffect } from 'react';
 import Coin from '../components/Coins';
 import Sidebar from '../components/Sidebar';
